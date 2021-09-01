@@ -1,0 +1,4 @@
+com/example/weathery/host/MainActivity.java
+ com.example.weathery.host.MainActivity
+com/example/weathery/host/BuildConfig.java
+ com.example.weathery.host.BuildConfig

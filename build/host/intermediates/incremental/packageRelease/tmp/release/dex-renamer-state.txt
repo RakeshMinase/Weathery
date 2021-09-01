@@ -1,0 +1,4 @@
+#Thu Jul 29 15:02:41 IST 2021
+base.0=E\:\\App_Development\\Flutter_projects\\weathery\\build\\host\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

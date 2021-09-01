@@ -1,0 +1,25 @@
+com.example.weathery.R$layout
+com.example.weathery.R$string
+com.example.weathery.R$drawable
+com.example.weathery.R$id: R$id()
+com.example.weathery.R$drawable: R$drawable()
+com.example.weathery.R$dimen
+com.example.weathery.R$string: R$string()
+io.flutter.plugins.GeneratedPluginRegistrant: GeneratedPluginRegistrant()
+com.example.weathery.R$integer
+com.example.weathery.R$color
+com.example.weathery.R$attr
+io.flutter.plugins.GeneratedPluginRegistrant
+com.example.weathery.R$integer: R$integer()
+com.example.weathery.R$styleable
+com.example.weathery.R: R()
+com.example.weathery.R$color: R$color()
+com.example.weathery.R
+com.example.weathery.R$layout: R$layout()
+com.example.weathery.R$style: R$style()
+com.example.weathery.R$style
+com.example.weathery.R$styleable: R$styleable()
+com.example.weathery.R$attr: R$attr()
+io.flutter.plugins.GeneratedPluginRegistrant: void registerWith(io.flutter.embedding.engine.FlutterEngine)
+com.example.weathery.R$dimen: R$dimen()
+com.example.weathery.R$id
